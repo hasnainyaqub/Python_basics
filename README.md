@@ -52,5 +52,5 @@ I will continue updating this repository as I learn more concepts in Python.
 
 - LinkedIn: [hasnain-yaqoob-](https://www.linkedin.com/in/hasnain-yaqoob-/)
 - GitHub: [hasnainyaqub](https://github.com/hasnainyaqub)
-- Kaggle: [https://www.khasnainyaqooob](https://www.kaggle.com/hasnainyaqooob)
+- Kaggle: [hasnainyaqooob](https://www.kaggle.com/hasnainyaqooob)
 
