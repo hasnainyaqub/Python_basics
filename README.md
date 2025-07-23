@@ -51,6 +51,6 @@ I will continue updating this repository as I learn more concepts in Python.
 ## Connect with Me
 
 - LinkedIn: [hasnain-yaqoob-](https://www.linkedin.com/in/hasnain-yaqoob-/)
-- GitHub: [httpshasnainyaqub](https://github.com/hasnainyaqub)
+- GitHub: [hasnainyaqub](https://github.com/hasnainyaqub)
 - Kaggle: [https://www.kaggle.com/hasnainyaqooob](https://www.kaggle.com/hasnainyaqooob)
 
