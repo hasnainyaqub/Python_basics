@@ -50,7 +50,7 @@ I will continue updating this repository as I learn more concepts in Python.
 
 ## Connect with Me
 
-- LinkedIn: [hasnain-yaqoob-](https://www.linkedin.com/in/hasnain-yaqoob-/)
+- LinkedIn: [hasnainyaqoob](https://www.linkedin.com/in/hasnainyaqoob/)
 - GitHub: [hasnainyaqub](https://github.com/hasnainyaqub)
 - Kaggle: [hasnainyaqooob](https://www.kaggle.com/hasnainyaqooob)
 
