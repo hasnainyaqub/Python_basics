@@ -4,7 +4,7 @@ This repository contains Python programming fundamentals organized by topic. It 
 
 ## Repository Structure
 
-- **00_Practice** (Practice scripts and exercises)  
+- **00_Notes & Practice** (Practice scripts, exercises and Pdf Notes)  
 - **1. Variable and Data Types** (Basic variables and data types)  
 - **2. Strings and Conditional Statements** (Working with strings, if, else, elif conditions)  
 - **3. List and Tuple in Python** (Basic list and tuple operations)  
